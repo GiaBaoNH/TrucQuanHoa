@@ -1,0 +1,12 @@
+D:\clone\Application\DentalBooking.ModelViews\bin\Debug\net8.0\DentalBooking.ModelViews.deps.json
+D:\clone\Application\DentalBooking.ModelViews\bin\Debug\net8.0\DentalBooking.ModelViews.dll
+D:\clone\Application\DentalBooking.ModelViews\bin\Debug\net8.0\DentalBooking.ModelViews.pdb
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\DentalBooking.ModelViews.GeneratedMSBuildEditorConfig.editorconfig
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\DentalBooking.ModelViews.AssemblyInfoInputs.cache
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\DentalBooking.ModelViews.AssemblyInfo.cs
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\DentalBooking.ModelViews.csproj.CoreCompileInputs.cache
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\DentalBooking.ModelViews.sourcelink.json
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\DentalBooking.ModelViews.dll
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\refint\DentalBooking.ModelViews.dll
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\DentalBooking.ModelViews.pdb
+D:\clone\Application\DentalBooking.ModelViews\obj\Debug\net8.0\ref\DentalBooking.ModelViews.dll

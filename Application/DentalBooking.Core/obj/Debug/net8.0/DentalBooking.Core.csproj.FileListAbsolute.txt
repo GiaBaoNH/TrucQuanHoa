@@ -1,0 +1,12 @@
+D:\clone\Application\DentalBooking.Core\bin\Debug\net8.0\DentalBooking.Core.deps.json
+D:\clone\Application\DentalBooking.Core\bin\Debug\net8.0\DentalBooking.Core.dll
+D:\clone\Application\DentalBooking.Core\bin\Debug\net8.0\DentalBooking.Core.pdb
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\DentalBooking.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\DentalBooking.Core.AssemblyInfoInputs.cache
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\DentalBooking.Core.AssemblyInfo.cs
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\DentalBooking.Core.csproj.CoreCompileInputs.cache
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\DentalBooking.Core.sourcelink.json
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\DentalBooking.Core.dll
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\refint\DentalBooking.Core.dll
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\DentalBooking.Core.pdb
+D:\clone\Application\DentalBooking.Core\obj\Debug\net8.0\ref\DentalBooking.Core.dll

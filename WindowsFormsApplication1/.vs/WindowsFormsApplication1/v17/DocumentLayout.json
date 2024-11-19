@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|e:\\doanchuyennganh\\chinhsuadoanmoi\\giaodien\\windowsformsapplication1\\windowsformsapplication1\\randomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\randomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|e:\\doanchuyennganh\\chinhsuadoanmoi\\giaodien\\windowsformsapplication1\\windowsformsapplication1\\randomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\randomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|e:\\doanchuyennganh\\chinhsuadoanmoi\\giaodien\\windowsformsapplication1\\windowsformsapplication1\\nhapfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\nhapfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|e:\\doanchuyennganh\\chinhsuadoanmoi\\giaodien\\windowsformsapplication1\\windowsformsapplication1\\nhapfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\nhapfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|e:\\doanchuyennganh\\chinhsuadoanmoi\\giaodien\\windowsformsapplication1\\windowsformsapplication1\\dulieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\dulieunhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|e:\\doanchuyennganh\\chinhsuadoanmoi\\giaodien\\windowsformsapplication1\\windowsformsapplication1\\datagridview_layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\datagridview_layout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\windowsformsapplication1\\form_sapxep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\form_sapxep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|e:\\doanchuyennganh\\chinhsuadoanmoi\\giaodien\\windowsformsapplication1\\windowsformsapplication1\\form_timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\form_timkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\windowsformsapplication1\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\windowsformsapplication1\\form_tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\form_tinhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\windowsformsapplication1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\windowsformsapplication1\\nhapmang2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B1FB863E-24BF-422F-B5BF-6B3E681BA4CB}|WindowsFormsApplication1\\DoAnTotNghiep.csproj|solutionrelative:windowsformsapplication1\\nhapmang2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomForm.cs",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\RandomForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\RandomForm.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\RandomForm.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\RandomForm.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA6wBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:07:40.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhapFile.cs",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\NhapFile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\NhapFile.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\NhapFile.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\NhapFile.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAuwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:07:18.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhapFile.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\NhapFile.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\NhapFile.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\NhapFile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\NhapFile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:07:15.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandomForm.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\RandomForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\RandomForm.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\RandomForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\RandomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:07:14.459Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DuLieuNhap.cs",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\DuLieuNhap.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\DuLieuNhap.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\DuLieuNhap.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\DuLieuNhap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:07:11.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataGridView_Layout.cs",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\DataGridView_Layout.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\DataGridView_Layout.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\DataGridView_Layout.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\DataGridView_Layout.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T02:07:05.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiaoDien.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\GiaoDien.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\GiaoDien.cs",
+              "ToolTip": "D:\\Doan\\clone\\WindowsFormsApplication1\\WindowsFormsApplication1\\GiaoDien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:27.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form_TimKiem.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form_TimKiem.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form_TimKiem.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form_TimKiem.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form_TimKiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:40.116Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form_SapXep.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form_SapXep.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form_SapXep.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form_SapXep.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApplication1\\Form_SapXep.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:38.917Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form_TinhToan.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form_TinhToan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Form_TinhToan.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\\u0110\u1ED3 \u00E1n\\WindowsFormsApplication1\\WindowsFormsApplication1\\Form_TinhToan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:36.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\Program.cs",
+              "ToolTip": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:34.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\TrangChu.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\TrangChu.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\\u0110\u1ED3 \u00E1n\\WindowsFormsApplication1\\WindowsFormsApplication1\\TrangChu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:33.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NhapMang2C.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnChuyenNganh\\ChinhSuaDoAnMoi\\GiaoDien\\WindowsFormsApplication1\\WindowsFormsApplication1\\NhapMang2C.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApplication1\\NhapMang2C.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\\u0110\u1ED3 \u00E1n\\WindowsFormsApplication1\\WindowsFormsApplication1\\NhapMang2C.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:19:29.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

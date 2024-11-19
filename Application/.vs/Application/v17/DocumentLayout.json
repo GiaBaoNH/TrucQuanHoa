@@ -1,0 +1,797 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\clone\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|d:\\clone\\application\\dentalbooking_services\\service\\appointmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|solutionrelative:dentalbooking_services\\service\\appointmentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\modelviews\\usermodelviews\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\modelviews\\usermodelviews\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\modelviews\\usermodelviews\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\modelviews\\usermodelviews\\userresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\modelviews\\usermodelviews\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\modelviews\\usermodelviews\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|d:\\clone\\application\\dentalbooking_services\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|solutionrelative:dentalbooking_services\\userupdatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|d:\\clone\\application\\dentalbooking_contract_services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|solutionrelative:dentalbooking_contract_services\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\entity\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\entity\\appointment_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\entity\\appointment_service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|d:\\clone\\application\\dentalbooking.repository\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|solutionrelative:dentalbooking.repository\\context\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\modelviews\\usermodelviews\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\modelviews\\usermodelviews\\userrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|d:\\clone\\application\\dentalbooking.repository\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|solutionrelative:dentalbooking.repository\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\iuow\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\iuow\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD1D07A7-EFFE-4B85-9516-1C88E69CDF61}|DentalBooking.Core\\DentalBooking.Core.csproj|d:\\clone\\application\\dentalbooking.core\\base\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD1D07A7-EFFE-4B85-9516-1C88E69CDF61}|DentalBooking.Core\\DentalBooking.Core.csproj|solutionrelative:dentalbooking.core\\base\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|d:\\clone\\application\\dentalbooking_contract_services\\interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|solutionrelative:dentalbooking_contract_services\\interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|d:\\clone\\application\\dentalbooking_services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|solutionrelative:dentalbooking_services\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|d:\\clone\\application\\dentalbooking_services\\service\\treatmentplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|solutionrelative:dentalbooking_services\\service\\treatmentplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\treatmentplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\treatmentplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|d:\\clone\\application\\dentalbooking_contract_services\\interface\\itreatmentplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|solutionrelative:dentalbooking_contract_services\\interface\\itreatmentplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\iuow\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\iuow\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\iuow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\iuow\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\iuow\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\iuow\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\iuow\\iclinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\iuow\\iclinicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|d:\\clone\\application\\dentalbooking_services\\service\\serviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6845999-9B9A-4AF1-A488-8DBF731A74BB}|DentalBooking_Services\\DentalBooking_Services.csproj|solutionrelative:dentalbooking_services\\service\\serviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|d:\\clone\\application\\dentalbooking.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|solutionrelative:dentalbooking.repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\servicemodelviews\\serviceresponemodelviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\servicemodelviews\\serviceresponemodelviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\servicemodelviews\\servicerequestmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\servicemodelviews\\servicerequestmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|d:\\clone\\application\\dentalbooking_contract_services\\interface\\iserviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE8015F2-B206-4D87-999B-3F68E060B8C0}|DentalBooking_Contract_Services\\DentalBooking_Contract_Services.csproj|solutionrelative:dentalbooking_contract_services\\interface\\iserviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\entity\\treatmentplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\entity\\treatmentplans.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\cliniccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\treatmentplanmodels\\treatmentplanrequestmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\treatmentplanmodels\\treatmentplanrequestmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\treatmentplanmodels\\treatmentplanresponsemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\treatmentplanmodels\\treatmentplanresponsemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|d:\\clone\\application\\dentalbooking.repository\\context\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|solutionrelative:dentalbooking.repository\\context\\dataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\messagemodelviews\\messageresponsemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\messagemodelviews\\messageresponsemodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\appointmentmodelviews\\appointmentrequestmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\appointmentmodelviews\\appointmentrequestmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|d:\\clone\\application\\dentalbooking.modelviews\\appointmentmodelviews\\appointmentresponemodelviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96D4109F-3A66-4C14-A6D1-776E1BBAA396}|DentalBooking.ModelViews\\DentalBooking.ModelViews.csproj|solutionrelative:dentalbooking.modelviews\\appointmentmodelviews\\appointmentresponemodelviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|d:\\clone\\application\\application\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5456F14B-7274-4954-A04E-F0F264E575D2}|Application\\Application.csproj|solutionrelative:application\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|d:\\clone\\application\\dentalbooking.contract.repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE8E0A3-21B0-4043-B386-E7BFDD57A764}|DentalBooking.Contract.Repository\\DentalBooking.Contract.Repository.csproj|solutionrelative:dentalbooking.contract.repository\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|d:\\clone\\application\\dentalbooking.repository\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|solutionrelative:dentalbooking.repository\\uow\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|d:\\clone\\application\\dentalbooking.repository\\migrations\\20240925151731_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C2A07AA-8FD6-4C8A-9F04-C488E2CD31FB}|DentalBooking.Repository\\DentalBooking.Repository.csproj|solutionrelative:dentalbooking.repository\\migrations\\20240925151731_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 281,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 244,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Application\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAK0AAAAAAAAAAAAuwMEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:11:55.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\RegisterModel.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\RegisterModel.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:30:13.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\Appointment.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\Entity\\Appointment.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\Appointment.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\Entity\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:18:08.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserResponseModel.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserResponseModel.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserResponseModel.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserResponseModel.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserResponseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:31:13.329Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Application\\appsettings.json",
+              "ToolTip": "D:\\clone\\Application\\Application\\appsettings.json",
+              "RelativeToolTip": "Application\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T15:11:16.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAASwHMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:11:15.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentServices.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Services\\Service\\AppointmentServices.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Services\\Service\\AppointmentServices.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Services\\Service\\AppointmentServices.cs",
+              "RelativeToolTip": "DentalBooking_Services\\Service\\AppointmentServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIAwwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:33:33.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\LoginModel.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\LoginModel.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\LoginModel.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:30:12.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserUpdateModel.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Services\\UserUpdateModel.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Services\\UserUpdateModel.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Services\\UserUpdateModel.cs",
+              "RelativeToolTip": "DentalBooking_Services\\UserUpdateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:06:14.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Repository\\Context\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Repository\\Context\\DatabaseContext.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Repository\\Context\\DatabaseContext.cs",
+              "RelativeToolTip": "DentalBooking.Repository\\Context\\DatabaseContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:16:59.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment_Service.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\Appointment_Service.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\Entity\\Appointment_Service.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\Appointment_Service.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\Entity\\Appointment_Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:28:44.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Contract_Services\\Interface\\IUserService.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\IUserService.cs",
+              "RelativeToolTip": "DentalBooking_Contract_Services\\Interface\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:16:22.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Repository\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Repository\\AppointmentRepository.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Repository\\AppointmentRepository.cs",
+              "RelativeToolTip": "DentalBooking.Repository\\AppointmentRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:46:15.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\IUOW\\IAppointmentRepository.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IAppointmentRepository.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\IUOW\\IAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:44:14.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRequestModel.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserRequestModel.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserRequestModel.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserRequestModel.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\ModelViews\\UserModelViews\\UserRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:30:16.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Core\\Base\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Core\\Base\\BaseResponse.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Core\\Base\\BaseResponse.cs",
+              "RelativeToolTip": "DentalBooking.Core\\Base\\BaseResponse.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:44:51.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Contract_Services\\Interface\\IAppointmentService.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\IAppointmentService.cs",
+              "RelativeToolTip": "DentalBooking_Contract_Services\\Interface\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:38:50.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Services\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Services\\Service\\UserService.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Services\\Service\\UserService.cs",
+              "RelativeToolTip": "DentalBooking_Services\\Service\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:29:45.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TreatmentPlanController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\TreatmentPlanController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\TreatmentPlanController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\TreatmentPlanController.cs",
+              "RelativeToolTip": "Application\\Controllers\\TreatmentPlanController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:10:03.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TreatmentPlanService.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Services\\Service\\TreatmentPlanService.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Services\\Service\\TreatmentPlanService.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Services\\Service\\TreatmentPlanService.cs",
+              "RelativeToolTip": "DentalBooking_Services\\Service\\TreatmentPlanService.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAcwOMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:26:35.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ITreatmentPlanService.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\ITreatmentPlanService.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Contract_Services\\Interface\\ITreatmentPlanService.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\ITreatmentPlanService.cs",
+              "RelativeToolTip": "DentalBooking_Contract_Services\\Interface\\ITreatmentPlanService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA4wCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:16:24.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\IUOW\\IUserRepository.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IUserRepository.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\IUOW\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:22:20.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\IUOW\\IUnitOfWork.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IUnitOfWork.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\IUOW\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:47:29.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\IUOW\\IGenericRepository.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IGenericRepository.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\IUOW\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:22:13.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IClinicRepository.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IClinicRepository.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\IUOW\\IClinicRepository.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\IUOW\\IClinicRepository.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\IUOW\\IClinicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T16:22:17.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceServices.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Services\\Service\\ServiceServices.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Services\\Service\\ServiceServices.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Services\\Service\\ServiceServices.cs",
+              "RelativeToolTip": "DentalBooking_Services\\Service\\ServiceServices.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAiwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:17:15.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Repository\\UserRepository.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Repository\\UserRepository.cs",
+              "RelativeToolTip": "DentalBooking.Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:30:02.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServiceResponeModelViews.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\ServiceModelViews\\ServiceResponeModelViews.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\ServiceModelViews\\ServiceResponeModelViews.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\ServiceModelViews\\ServiceResponeModelViews.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\ServiceModelViews\\ServiceResponeModelViews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:20:43.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ServiceRequestModelView.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\ServiceModelViews\\ServiceRequestModelView.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\ServiceModelViews\\ServiceRequestModelView.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\ServiceModelViews\\ServiceRequestModelView.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\ServiceModelViews\\ServiceRequestModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:20:42.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IServiceServices.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\IServiceServices.cs",
+              "RelativeDocumentMoniker": "DentalBooking_Contract_Services\\Interface\\IServiceServices.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking_Contract_Services\\Interface\\IServiceServices.cs",
+              "RelativeToolTip": "DentalBooking_Contract_Services\\Interface\\IServiceServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:17:30.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TreatmentPlans.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\TreatmentPlans.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\Entity\\TreatmentPlans.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\TreatmentPlans.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\Entity\\TreatmentPlans.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:16:54.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\ServicesController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "Application\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwCEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:08:30.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "Application\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:08:21.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Application\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:52:34.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ClinicController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\ClinicController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\ClinicController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\ClinicController.cs",
+              "RelativeToolTip": "Application\\Controllers\\ClinicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T07:07:34.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataSeeder.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Repository\\Context\\DataSeeder.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Repository\\Context\\DataSeeder.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Repository\\Context\\DataSeeder.cs",
+              "RelativeToolTip": "DentalBooking.Repository\\Context\\DataSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:16:56.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "Application\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwBcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:10:38.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TreatmentPlanRequestModelView.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanRequestModelView.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanRequestModelView.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanRequestModelView.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanRequestModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:17:07.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TreatmentPlanResponseModelView.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanResponseModelView.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanResponseModelView.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanResponseModelView.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\TreatmentPlanModels\\TreatmentPlanResponseModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:17:05.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MessageResponseModelView.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\MessageModelViews\\MessageResponseModelView.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\MessageModelViews\\MessageResponseModelView.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\MessageModelViews\\MessageResponseModelView.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\MessageModelViews\\MessageResponseModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:16:53.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppointmentRequestModelView.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentRequestModelView.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentRequestModelView.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentRequestModelView.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentRequestModelView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T06:16:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppointmentResponeModelViews.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentResponeModelViews.cs",
+              "RelativeDocumentMoniker": "DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentResponeModelViews.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentResponeModelViews.cs",
+              "RelativeToolTip": "DentalBooking.ModelViews\\AppointmentModelViews\\AppointmentResponeModelViews.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T04:19:25.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\Application\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\clone\\Application\\Application\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Application\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:50:59.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Contract.Repository\\Entity\\User.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Contract.Repository\\Entity\\User.cs",
+              "RelativeToolTip": "DentalBooking.Contract.Repository\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:31:22.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Repository\\UOW\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Repository\\UOW\\UnitOfWork.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Repository\\UOW\\UnitOfWork.cs",
+              "RelativeToolTip": "DentalBooking.Repository\\UOW\\UnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:46:58.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240925151731_DbInit.cs",
+              "DocumentMoniker": "D:\\clone\\Application\\DentalBooking.Repository\\Migrations\\20240925151731_DbInit.cs",
+              "RelativeDocumentMoniker": "DentalBooking.Repository\\Migrations\\20240925151731_DbInit.cs",
+              "ToolTip": "D:\\clone\\Application\\DentalBooking.Repository\\Migrations\\20240925151731_DbInit.cs",
+              "RelativeToolTip": "DentalBooking.Repository\\Migrations\\20240925151731_DbInit.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:17:32.243Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 14,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
